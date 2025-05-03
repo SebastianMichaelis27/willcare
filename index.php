@@ -12,11 +12,9 @@
     </style>
 </head>
 <body>
-    <iframe id="iframe" src="https://www.stt-su.ac.id/flyer"></iframe>
 
     <script>
-        document.querySelector("iframe").addEventListener( "load", function(e) {
-        });
+        alert('arga');
     </script>
 </body>
 </html>
