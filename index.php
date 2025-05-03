@@ -12,9 +12,6 @@
     </style>
 </head>
 <body>
-
-    <script>
-        alert('arga');
-    </script>
+ sebastian
 </body>
 </html>
